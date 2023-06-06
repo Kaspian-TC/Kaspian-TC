@@ -1,5 +1,5 @@
 Hi, I’m @Kaspian-TC
-- I’m currently going into my thrid year at UTSC
+- I’m currently going into my fourth year at UTSC
 - I love C programming but have experience with Java too
 - You can reach me at kaspian.thoft.christensen@mail.utoronto.ca
 
